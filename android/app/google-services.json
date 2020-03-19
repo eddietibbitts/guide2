@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "890635399489",
+    "firebase_url": "https://guide-e0fb1.firebaseio.com",
+    "project_id": "guide-e0fb1",
+    "storage_bucket": "guide-e0fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890635399489:android:2e7f59dae1579000ce71c0",
+        "android_client_info": {
+          "package_name": "com.eddietibbitts.guide2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890635399489-vqr7ik5o9a3o4nmnievl2hgrg1qnue7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkLvFEmkdei7_qPZJTwLO4jFdHtViJHlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890635399489-vqr7ik5o9a3o4nmnievl2hgrg1qnue7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
